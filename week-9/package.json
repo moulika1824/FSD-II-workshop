@@ -1,0 +1,22 @@
+{
+  "name": "week-9",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^18.0.1",
+    "express": "^5.2.1",
+    "mongoose": "^9.10.1"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.6",
+    "@types/node": "^26.6.2",
+    "typescript": "^7.0.2"
+  }
+}
